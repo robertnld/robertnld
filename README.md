@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm using GitHub to collect documentation, projects, apps, scripts, examples and anything else IT related.
+
 <!--
 **robertnld/robertnld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
